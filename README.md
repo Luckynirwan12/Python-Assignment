@@ -1,4 +1,4 @@
-# Python-Assignment
+# Python Assignment
 
 ## Q1. L is a list defined as L= [11, 12, 13, 14].
 
